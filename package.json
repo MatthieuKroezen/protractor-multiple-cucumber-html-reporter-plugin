@@ -41,6 +41,6 @@
   },
   "dependencies": {
     "fs-extra": "^3.0.1",
-    "multiple-cucumber-html-reporter": "git@github.com:MatthieuKroezen/multiple-cucumber-html-reporter.git"
+    "multiple-cucumber-html-reporter": "git+https://github.com/MatthieuKroezen/multiple-cucumber-html-reporter.git#1937534bf5b104993ba17ecfdb38c85bf460433c"
   }
 }
